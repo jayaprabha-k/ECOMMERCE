@@ -1,0 +1,21 @@
+.hero-section {
+    background: url('image.png') center/cover no-repeat;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hero-section h1 {
+    font-size: 3rem;
+}
+
+.card img {
+    height: 150px;
+    object-fit: cover;
+
+    
+}
+.card{
+    margin-bottom: 5%;
+}
